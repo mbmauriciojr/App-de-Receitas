@@ -1,0 +1,26 @@
+.explorar-buttons {
+  display: flex;
+  flex-direction: column;
+  height: 20%;
+  margin-bottom: 48%;
+  margin-top: 30%;
+}
+
+.explorar-buttons > button {
+  align-self: center;
+  background-color: #692c03;
+  border-radius: 8px;
+  border-style: none;
+  color: white;
+  height: 100px;
+  margin-bottom: 10px;
+  width: 200px;
+}
+
+.explorar-buttons > button:focus {
+  outline: none;
+}
+
+.explorar-buttons > button:hover {
+  background-color: #a1480c;
+}

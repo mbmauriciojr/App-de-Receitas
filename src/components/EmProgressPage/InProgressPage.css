@@ -1,0 +1,22 @@
+.background-smoked-with {
+  background-color: whitesmoke;
+}
+
+.ingrediente-list {
+  background-color: #fabb8b;
+  padding-left: 5px;
+  width: 100%;
+}
+
+.instructions-background {
+  background-color: #fabb8b;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.finish-button {
+  background-color: #e85c06;
+  border-style: none;
+  color: white;
+  font-size: larger;
+}

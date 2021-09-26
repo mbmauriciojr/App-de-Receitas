@@ -1,0 +1,9 @@
+$theme-colors: (
+  'primary': #fabb8b,
+  'danger':  #692c03,
+  'success': #e85c06,
+);
+
+// Import Bootstrap and its default variables
+
+@import '~bootstrap/scss/bootstrap.scss' ;

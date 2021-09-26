@@ -1,0 +1,25 @@
+.textBtn {
+  align-items: flex-end;
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+}
+
+.text {
+  margin: 0 auto auto 0;
+}
+
+.button {
+  margin: 0 0 0 10px;
+}
+
+.radios {
+  justify-content: flex-end;
+  margin: 10px auto 0;
+}
+
+.form {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}

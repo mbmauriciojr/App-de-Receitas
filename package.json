@@ -12,13 +12,15 @@
     "clipboard-copy": "^3.1.0",
     "history": "^4.7.2",
     "lodash": "^4.17.15",
+    "node-sass": "^4.14.1",
     "prop-types": "^15.7.2",
-    "react": "^16.13.1",
+    "react": "^16.14.0",
     "react-bootstrap": "^1.4.0",
-    "react-dom": "^16.13.1",
+    "react-dom": "^16.14.0",
     "react-logger": "^1.1.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1",
+    "reactstrap": "^8.9.0",
     "websocket-extensions": ">=0.1.4"
   },
   "scripts": {

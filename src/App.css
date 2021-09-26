@@ -1,3 +1,16 @@
+/* html, body {
+  background-color: whitesmoke;
+  height: 100vh;
+} */
+
+.center {
+  height: 100vh;
+}
+
+.isCheckedCss {
+  text-decoration: line-through;
+}
+
 .meals {
   align-items: center;
   background: #0fa36b;

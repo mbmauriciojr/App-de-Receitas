@@ -1,0 +1,71 @@
+.header-container {
+  align-items: center;
+  background-color: #ff9654;
+  border-radius: 0 0 15px 15px;
+  display: flex;
+  flex-flow: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  margin-bottom: 2px;
+  padding-bottom: 5px;
+}
+
+.header-container > h1 {
+  color: #692c03;
+  font-family: Caveat , cursive;
+  margin-bottom: 0;
+  margin-top: 10px;
+  text-decoration: white;
+}
+
+.header-container > button {
+  background-color: #ff9654;
+  border-style: none;
+}
+
+.header-container > button:focus {
+  outline: none;
+}
+
+.explore-header {
+  font-size: 30px;
+  padding-bottom: 7px;
+}
+
+.loading {
+  align-items: center;
+  background-color: #ff9654;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  width: 100%;
+}
+
+.header-container-customized {
+  align-items: center;
+  background-color: #ff9654;
+  display: flex;
+  flex-flow: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  padding-bottom: 5px;
+}
+
+.header-container-customized > h1 {
+  color: #692c03;
+  flex-grow: 2;
+  font-family: Caveat , cursive;
+  padding-top: 15px;
+}
+
+.header-container-customized > a {
+  flex-grow: 1;
+  padding-left: 5px;
+}
+
+.svg-color-icon {
+  filter: invert(24%) sepia(8%) saturate(5357%)
+    hue-rotate(345deg) brightness(94%) contrast(107%);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Caveat:wght@400;500;600;700&display=swap') ;

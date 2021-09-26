@@ -1,0 +1,84 @@
+.recipe-container {
+  background-color: whitesmoke;
+}
+
+.img-details-main {
+  width: 100%;
+}
+
+.recomendation-container {
+  display: flex;
+  margin-bottom: 40px;
+  overflow-x: scroll;
+}
+
+.recomendation-card-img {
+  width: 50vw;
+}
+
+.button-recipe {
+  bottom: 0;
+  position: fixed;
+}
+
+.infos-buttons-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.infos-container {
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+.buttons-container {
+  margin-top: 15px;
+}
+
+.buttons-container > button {
+  background-color: whitesmoke;
+  border-style: none;
+  margin-right: 3px;
+}
+
+.buttons-container > button > img {
+  height: 26px;
+  width: 26px;
+}
+
+.buttons-container > button:focus {
+  outline: none;
+}
+
+.list-container {
+  background-color: #fabb8b;
+  list-style-type: none;
+  padding-left: 10px;
+}
+
+.instruction-container {
+  background-color: #fabb8b;
+}
+
+.instruction-container > p {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.video-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.card-recomendation {
+  text-align: center;
+}
+
+h3 {
+  padding-left: 10px;
+}
+
+.margin-link {
+  margin-left: 15px;
+}

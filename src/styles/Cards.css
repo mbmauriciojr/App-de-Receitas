@@ -1,0 +1,9 @@
+a:link {
+  text-decoration: none;
+}
+
+.card-link {
+  color: #692c03;
+  font-weight: 900;
+  text-align: center;
+}
