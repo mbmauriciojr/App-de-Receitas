@@ -9,7 +9,7 @@ Nele utilizamos técnicas de <b>CRUD</b> (Create, Read, Update e Delete), junto 
 ### Como rodar o projeto localmente:
 
 1. Clone o repositório
-  * `git@github.com:mbmauriciojr/sd-010-a-project-recipes-app.git`.
+  * `git@github.com:mbmauriciojr/App-de-Receitas.git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-010-a-project-recipes-app`
 
