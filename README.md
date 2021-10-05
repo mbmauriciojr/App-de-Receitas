@@ -11,7 +11,7 @@ Nele utilizamos técnicas de <b>CRUD</b> (Create, Read, Update e Delete), junto 
 1. Clone o repositório
   * `git@github.com:mbmauriciojr/App-de-Receitas.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-010-a-project-recipes-app`
+    * `cd App-de-Receitas`
 
 2. Instale as dependências e inicialize o projeto
   * Instale as dependências:
